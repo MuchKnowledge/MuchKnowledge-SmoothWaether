@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768462664152",
+    "project_id": "smoothweather-17fed",
+    "storage_bucket": "smoothweather-17fed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768462664152:android:bdd30ca5cc30b73d4502ad",
+        "android_client_info": {
+          "package_name": "com.smoothweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768462664152-bt80u5c7rb5m1a17j5gg4hb663oocs14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1pVavnn_ux4TrDbHhymiI9B8xgiwuwKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768462664152-bt80u5c7rb5m1a17j5gg4hb663oocs14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
